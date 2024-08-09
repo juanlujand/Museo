@@ -1,5 +1,5 @@
 # Carga las librerías
-from keras.models import load_model
+from keras_models import load_model
 from PIL import Image, ImageOps
 import numpy as np
 import os
