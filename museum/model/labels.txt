@@ -1,0 +1,2 @@
+0 Luz
+1 No Luz
