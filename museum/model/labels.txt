@@ -1,2 +1,2 @@
-0 Luz
-1 No Luz
+0 PINTURA
+1 NO PINTURA
