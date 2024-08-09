@@ -1,2 +1,2 @@
-0 Pintura
-1 No pintura
+0 PINTURA
+1 NO PINTURA
